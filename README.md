@@ -34,6 +34,6 @@
 
 <br>
 
-## 🗄️ Modelo Entidad-Relación
+## 🗄️ Modelo Entidad-Relación [Ir a Identidad Relación](./identidad-relacion.md)
 
 <!-- Aquí puedes agregar la imagen de tu modelo o tu texto descriptivo -->
