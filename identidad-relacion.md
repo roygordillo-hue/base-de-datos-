@@ -2,7 +2,7 @@
 
 ## <div align="center">🗄️ Ejemplo 1: Sistema de Biblioteca
 
-<img width="766" height="492" alt="image" src="https://github.com/user-attachments/assets/6088e7b1-3594-40a7-bb73-3c6d21a8ed42" />
+<div align="center"> <img width="766" height="492" alt="image" src="https://github.com/user-attachments/assets/6088e7b1-3594-40a7-bb73-3c6d21a8ed42" />
 
 
 ## <div align="center">🗄️ Ejemplo 2: Pedidos de Restaurante
